@@ -1,0 +1,46 @@
+p {
+  font-family: Lato;
+  font-size: 10px;
+  background-color: blue;
+}
+input {
+  padding: 4px;
+  border: none;
+  border-bottom: 1px solid #aac;
+  border-top: 1px solid #aac;
+  border-left: 1px solid #aac;
+  border-right: 1px solid #aac;
+  width: 100%;
+  font-family: Lato;
+  font-size: 16px;
+  text-align: left;
+}
+th {
+  color: white;
+  text-align: left;
+  font-family: Lato;
+  font-size: 10px;
+  background-color: blue;
+  padding-top: 0.1px;
+  padding-bottom: 0.1px;
+}
+td {
+  font-family: Lato;
+  font-size: 16px;
+  text-align: left;
+}
+button {
+  font-family: Lato;
+  font-size: 16px;
+  text-align: center;
+  background-color: greenyellow;
+}
+.span_head1 {
+  color: white;
+  text-align: left;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
